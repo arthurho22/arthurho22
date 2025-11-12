@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @arthurho22
-- 👀 I’m interested in ser um bom desenvolvedor e evoluir na minha carreira
-- 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👀 I’m interested in work as a profissional developer for your company!
+- 🌱 I’m currently learning REACT
+- 💞️ I’m looking foward to collaborate on helping increase your company
+- 📫 How to reach me: arthurguilhermehoffmann@gmail.com
 
 <!---
 arthurho22/arthurho22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
