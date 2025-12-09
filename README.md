@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arthurho22
 - 👀 I’m interested in work as a profissional developer for your company!
-- 🌱 I’m currently learning REACT
+- 🌱 I’m currently learning NEXT.JS
 - 💞️ I’m looking foward to collaborate on helping increase your company
 - 📫 How to reach me: arthurguilhermehoffmann@gmail.com
 
