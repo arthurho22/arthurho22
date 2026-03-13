@@ -23,9 +23,11 @@ In my GitHub repositories, you will find projects related to:
 ---
 
 ## Contact
-- Email: arthurguilhermehoffmann@gmail.com  
-- LinkedIn: https://www.linkedin.com/in/arthur-guilherme-hoffmann-77b41b274/  
-- GitHub: https://github.com/arthurho22
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/arthur.ho07)
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arthurguilhermehoffmann@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-guilherme-hoffmann-77b41b274/)
 
 ---
   
