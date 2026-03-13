@@ -1,5 +1,4 @@
-👋 Hi! I'm Arthur Guilherme Hoffmann
-
+**👋 Hi! I'm Arthur Guilherme Hoffmann**
 🎓 Technology student
 💻 Interested in Software Development, Databases, and Data Science
 📚 Always learning new technologies and improving my programming skills
