@@ -7,7 +7,7 @@ I am a technology student passionate about software development and problem solv
 ---
 
 - I've participated in Entra21 In 2024 where I learned about Java and Spring Boot.
-
+- I've participated in courses at Proway for 2 years where I underwent a learning assessment for languages ​​ranging from JavaScript to Next.js.
 
 
 ## Projects
