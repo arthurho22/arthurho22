@@ -26,4 +26,7 @@ In my GitHub repositories, you will find projects related to:
 - Email: arthurguilhermehoffmann@gmail.com  
 - LinkedIn: https://www.linkedin.com/in/arthur-guilherme-hoffmann-77b41b274/  
 - GitHub: https://github.com/arthurho22
+
+---
+  
 ⭐ Thanks for visiting my profile!
