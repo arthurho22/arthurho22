@@ -3,8 +3,7 @@
 
 ## I'm Arthur Guilherme Hoffmann and my github nickname is @arthurho22
 
-I am a technology student passionate about software development and problem solving.  
-Currently, I am studying Systems Development Analysis at SENAI.
+I am a technology student passionate about software development and problem solving. Currently, I am studying Systems Development Analysis at SENAI.
 ---
 
 - I've participated in Entra21 In 2024 where I learned about Java and Spring Boot.
