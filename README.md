@@ -1,7 +1,7 @@
 # 👋 Hi! Welcome to my GitHub.
 ---
 
-## I'm Arthur Guilherme Hoffmann and my github nickname is @arthurho22
+## I'm Arthur Guilherme Hoffmann and my nickname is @arthurho22 
 
 I am a technology student passionate about software development and problem solving. Currently, I am studying Systems Development Analysis at SENAI.
 ---
